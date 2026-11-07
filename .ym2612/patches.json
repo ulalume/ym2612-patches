@@ -1,0 +1,1314 @@
+{
+  "patches": {
+    "bass/1op sub bass.dmp": {
+      "articulation": [
+        "sustained"
+      ],
+      "gm": [
+        39
+      ],
+      "icon": "synth-bass",
+      "role": "bass",
+      "timbre": [
+        "dark"
+      ]
+    },
+    "bass/2op bass.dmp": {
+      "articulation": [
+        "sustained"
+      ],
+      "gm": [
+        34
+      ],
+      "icon": "bass",
+      "role": "bass",
+      "timbre": [
+        "dark"
+      ]
+    },
+    "bass/2op fb bass.dmp": {
+      "articulation": [
+        "decaying"
+      ],
+      "gm": [
+        34
+      ],
+      "icon": "bass",
+      "role": "bass"
+    },
+    "bass/acoustic bass.dmp": {
+      "articulation": [
+        "decaying"
+      ],
+      "gm": [
+        33
+      ],
+      "icon": "upright-bass",
+      "role": "bass"
+    },
+    "bass/bass.dmp": {
+      "articulation": [
+        "decaying"
+      ],
+      "gm": [
+        34,
+        35
+      ],
+      "icon": "bass",
+      "role": "bass",
+      "timbre": [
+        "bright"
+      ]
+    },
+    "bass/chopper bass.dmp": {
+      "gm": [
+        37
+      ],
+      "icon": "bass",
+      "role": "bass"
+    },
+    "bass/e.chopper bass.dmp": {
+      "gm": [
+        38
+      ],
+      "icon": "bass",
+      "role": "bass"
+    },
+    "bass/fretless bass.dmp": {
+      "articulation": [
+        "decaying"
+      ],
+      "gm": [
+        36
+      ],
+      "icon": "bass",
+      "role": "bass"
+    },
+    "bass/ssg bass.dmp": {
+      "articulation": [
+        "decaying"
+      ],
+      "gm": [
+        34
+      ],
+      "icon": "bass",
+      "role": "bass",
+      "timbre": [
+        "bright"
+      ]
+    },
+    "bass/ssg bass2.dmp": {
+      "articulation": [
+        "decaying"
+      ],
+      "gm": [
+        34
+      ],
+      "icon": "bass",
+      "role": "bass",
+      "timbre": [
+        "bright"
+      ]
+    },
+    "bass/synth bass.dmp": {
+      "articulation": [
+        "sustained"
+      ],
+      "gm": [
+        39
+      ],
+      "icon": "synth-bass",
+      "role": "bass",
+      "timbre": [
+        "dark"
+      ]
+    },
+    "bass/synth bass2.dmp": {
+      "articulation": [
+        "sustained"
+      ],
+      "gm": [
+        40
+      ],
+      "icon": "synth-bass",
+      "role": "bass"
+    },
+    "bass/synth bass3.dmp": {
+      "articulation": [
+        "decaying"
+      ],
+      "gm": [
+        39
+      ],
+      "icon": "synth-bass",
+      "role": "bass"
+    },
+    "brass/1op fb trumpet.dmp": {
+      "articulation": [
+        "sustained",
+        "long release",
+        "pitch mod"
+      ],
+      "gm": [
+        57
+      ],
+      "icon": "trumpet",
+      "role": "lead",
+      "timbre": [
+        "bright"
+      ]
+    },
+    "brass/2op fb brass.dmp": {
+      "articulation": [
+        "sustained",
+        "pitch mod"
+      ],
+      "gm": [
+        62
+      ],
+      "icon": "trumpet",
+      "role": "lead",
+      "timbre": [
+        "bright"
+      ]
+    },
+    "brass/horn.dmp": {
+      "articulation": [
+        "sustained",
+        "pitch mod"
+      ],
+      "gm": [
+        61
+      ],
+      "icon": "french-horn",
+      "role": "lead"
+    },
+    "brass/synth brass.dmp": {
+      "articulation": [
+        "decaying",
+        "pitch mod"
+      ],
+      "gm": [
+        63
+      ],
+      "icon": "trumpet",
+      "role": "lead"
+    },
+    "brass/trumpet.dmp": {
+      "articulation": [
+        "sustained",
+        "long release",
+        "pitch mod"
+      ],
+      "gm": [
+        57
+      ],
+      "icon": "trumpet",
+      "role": "lead",
+      "timbre": [
+        "bright"
+      ]
+    },
+    "brass/trumpet2.dmp": {
+      "articulation": [
+        "decaying",
+        "pitch mod"
+      ],
+      "gm": [
+        60,
+        57
+      ],
+      "icon": "trumpet",
+      "role": "lead"
+    },
+    "chromatic percussion/1op music box.dmp": {
+      "articulation": [
+        "percussive"
+      ],
+      "gm": [
+        11
+      ],
+      "icon": "music-box",
+      "role": "pluck",
+      "timbre": [
+        "dark"
+      ]
+    },
+    "chromatic percussion/2op glockenspiel.dmp": {
+      "articulation": [
+        "decaying"
+      ],
+      "gm": [
+        10
+      ],
+      "icon": "glockenspiel",
+      "role": "pluck"
+    },
+    "chromatic percussion/2op marimba.dmp": {
+      "articulation": [
+        "decaying"
+      ],
+      "gm": [
+        13
+      ],
+      "icon": "xylophone",
+      "role": "pluck",
+      "timbre": [
+        "dark"
+      ]
+    },
+    "chromatic percussion/bell.dmp": {
+      "articulation": [
+        "sustained",
+        "long release"
+      ],
+      "gm": [
+        15
+      ],
+      "icon": "bell",
+      "role": "pluck"
+    },
+    "chromatic percussion/celesta.dmp": {
+      "articulation": [
+        "percussive",
+        "long release"
+      ],
+      "gm": [
+        9
+      ],
+      "icon": "glockenspiel",
+      "role": "pluck",
+      "timbre": [
+        "dark"
+      ]
+    },
+    "chromatic percussion/church bell.dmp": {
+      "articulation": [
+        "decaying",
+        "long release"
+      ],
+      "gm": [
+        15
+      ],
+      "icon": "church-bell",
+      "role": "pluck",
+      "timbre": [
+        "bright"
+      ]
+    },
+    "chromatic percussion/distorted bell.dmp": {
+      "articulation": [
+        "decaying",
+        "long release"
+      ],
+      "gm": [
+        15
+      ],
+      "icon": "bell",
+      "role": "pluck",
+      "timbre": [
+        "bright"
+      ]
+    },
+    "chromatic percussion/glockenspiel.dmp": {
+      "articulation": [
+        "decaying",
+        "long release"
+      ],
+      "gm": [
+        10
+      ],
+      "icon": "glockenspiel",
+      "role": "pluck"
+    },
+    "chromatic percussion/glockenspiel2.dmp": {
+      "articulation": [
+        "decaying",
+        "long release"
+      ],
+      "gm": [
+        10
+      ],
+      "icon": "glockenspiel",
+      "role": "pluck",
+      "timbre": [
+        "bright"
+      ]
+    },
+    "chromatic percussion/glockenspiel3.dmp": {
+      "gm": [
+        10
+      ],
+      "icon": "glockenspiel",
+      "role": "pluck"
+    },
+    "chromatic percussion/marimba.dmp": {
+      "articulation": [
+        "percussive"
+      ],
+      "gm": [
+        13
+      ],
+      "icon": "xylophone",
+      "role": "pluck"
+    },
+    "chromatic percussion/marimba2.dmp": {
+      "articulation": [
+        "percussive"
+      ],
+      "gm": [
+        13
+      ],
+      "icon": "xylophone",
+      "role": "pluck"
+    },
+    "chromatic percussion/vibraphone.dmp": {
+      "articulation": [
+        "decaying",
+        "pulsing"
+      ],
+      "gm": [
+        12
+      ],
+      "icon": "xylophone",
+      "role": "pluck",
+      "timbre": [
+        "dark"
+      ]
+    },
+    "chromatic percussion/xylophone.dmp": {
+      "articulation": [
+        "percussive"
+      ],
+      "gm": [
+        14
+      ],
+      "icon": "xylophone",
+      "role": "pluck"
+    },
+    "ensemble/2op strings.dmp": {
+      "articulation": [
+        "sustained",
+        "long release",
+        "pitch mod"
+      ],
+      "gm": [
+        49
+      ],
+      "icon": "strings-ensemble",
+      "role": "pad",
+      "timbre": [
+        "bright"
+      ]
+    },
+    "ensemble/2op strings2.dmp": {
+      "articulation": [
+        "slow attack",
+        "sustained",
+        "pitch mod"
+      ],
+      "gm": [
+        49
+      ],
+      "icon": "strings-ensemble",
+      "role": "pad",
+      "timbre": [
+        "dark"
+      ]
+    },
+    "ensemble/5th strings.dmp": {
+      "articulation": [
+        "sustained",
+        "long release",
+        "pitch mod"
+      ],
+      "gm": [
+        49
+      ],
+      "icon": "strings-ensemble",
+      "role": "pad"
+    },
+    "ensemble/choir.dmp": {
+      "articulation": [
+        "slow attack",
+        "sustained",
+        "long release",
+        "pitch mod"
+      ],
+      "gm": [
+        53,
+        54
+      ],
+      "icon": "choir",
+      "role": "pad"
+    },
+    "ensemble/slow strings.dmp": {
+      "articulation": [
+        "sustained",
+        "pitch mod"
+      ],
+      "gm": [
+        50
+      ],
+      "icon": "strings-ensemble",
+      "role": "pad"
+    },
+    "ensemble/whistle.dmp": {
+      "articulation": [
+        "slow attack",
+        "decaying",
+        "pitch mod"
+      ],
+      "gm": [
+        79
+      ],
+      "icon": "whistle",
+      "role": "lead",
+      "timbre": [
+        "dark"
+      ]
+    },
+    "ethnic/sitar.dmp": {
+      "gm": [
+        105
+      ],
+      "icon": "sitar",
+      "role": "pluck"
+    },
+    "guitar/1op fb pluck.dmp": {
+      "articulation": [
+        "decaying"
+      ],
+      "gm": [
+        25
+      ],
+      "icon": "acoustic-guitar",
+      "role": "pluck"
+    },
+    "guitar/2op fb guitar.dmp": {
+      "articulation": [
+        "decaying"
+      ],
+      "gm": [
+        26
+      ],
+      "icon": "acoustic-guitar",
+      "role": "pluck"
+    },
+    "guitar/2op guitar.dmp": {
+      "articulation": [
+        "decaying"
+      ],
+      "gm": [
+        26
+      ],
+      "icon": "acoustic-guitar",
+      "role": "pluck"
+    },
+    "guitar/5th guitar.dmp": {
+      "articulation": [
+        "decaying"
+      ],
+      "gm": [
+        26
+      ],
+      "icon": "acoustic-guitar",
+      "role": "pluck"
+    },
+    "guitar/acoustic guitar.dmp": {
+      "articulation": [
+        "decaying"
+      ],
+      "gm": [
+        26,
+        25
+      ],
+      "icon": "acoustic-guitar",
+      "role": "pluck"
+    },
+    "guitar/clean guitar.dmp": {
+      "articulation": [
+        "sustained"
+      ],
+      "gm": [
+        28,
+        27
+      ],
+      "icon": "electric-guitar",
+      "role": "pluck"
+    },
+    "guitar/distortion guitar.dmp": {
+      "articulation": [
+        "sustained",
+        "long release"
+      ],
+      "gm": [
+        30,
+        31
+      ],
+      "icon": "electric-guitar",
+      "role": "lead",
+      "timbre": [
+        "bright"
+      ]
+    },
+    "guitar/distortion guitar2.dmp": {
+      "articulation": [
+        "decaying",
+        "long release"
+      ],
+      "gm": [
+        31,
+        30
+      ],
+      "icon": "electric-guitar",
+      "role": "lead",
+      "timbre": [
+        "bright"
+      ]
+    },
+    "guitar/distortion guitar3.dmp": {
+      "articulation": [
+        "sustained"
+      ],
+      "gm": [
+        31
+      ],
+      "icon": "electric-guitar",
+      "role": "lead",
+      "timbre": [
+        "bright"
+      ]
+    },
+    "guitar/electric guitar.dmp": {
+      "articulation": [
+        "decaying",
+        "long release"
+      ],
+      "gm": [
+        29,
+        27,
+        28
+      ],
+      "icon": "electric-guitar",
+      "role": "pluck",
+      "timbre": [
+        "bright"
+      ]
+    },
+    "guitar/electric guitar2.dmp": {
+      "articulation": [
+        "slow attack",
+        "sustained"
+      ],
+      "gm": [
+        27
+      ],
+      "icon": "electric-guitar",
+      "role": "pluck",
+      "timbre": [
+        "bright"
+      ]
+    },
+    "guitar/electric guitar3.dmp": {
+      "articulation": [
+        "sustained"
+      ],
+      "gm": [
+        27
+      ],
+      "icon": "electric-guitar",
+      "role": "pluck",
+      "timbre": [
+        "bright"
+      ]
+    },
+    "organ/1op fb organ.dmp": {
+      "articulation": [
+        "sustained",
+        "pulsing"
+      ],
+      "gm": [
+        17
+      ],
+      "icon": "organ",
+      "role": "keys",
+      "timbre": [
+        "dark"
+      ]
+    },
+    "organ/2op organ.dmp": {
+      "articulation": [
+        "sustained",
+        "pulsing"
+      ],
+      "gm": [
+        17
+      ],
+      "icon": "organ",
+      "role": "keys"
+    },
+    "organ/accordion.dmp": {
+      "gm": [
+        22
+      ],
+      "icon": "accordion",
+      "role": "keys"
+    },
+    "organ/church organ.dmp": {
+      "articulation": [
+        "decaying",
+        "long release"
+      ],
+      "gm": [
+        20
+      ],
+      "icon": "pipe-organ",
+      "role": "keys",
+      "timbre": [
+        "bright"
+      ]
+    },
+    "organ/e.organ.dmp": {
+      "articulation": [
+        "sustained",
+        "pulsing"
+      ],
+      "gm": [
+        17
+      ],
+      "icon": "organ",
+      "role": "keys"
+    },
+    "organ/e.organ2.dmp": {
+      "articulation": [
+        "sustained",
+        "pulsing"
+      ],
+      "gm": [
+        17
+      ],
+      "icon": "organ",
+      "role": "keys"
+    },
+    "organ/organ.dmp": {
+      "articulation": [
+        "sustained",
+        "pulsing"
+      ],
+      "gm": [
+        17
+      ],
+      "icon": "organ",
+      "role": "keys"
+    },
+    "organ/percussive organ.dmp": {
+      "gm": [
+        18
+      ],
+      "icon": "organ",
+      "role": "keys"
+    },
+    "organ/reed organ.dmp": {
+      "gm": [
+        21
+      ],
+      "icon": "organ",
+      "role": "keys"
+    },
+    "piano/2op clav.dmp": {
+      "articulation": [
+        "decaying"
+      ],
+      "gm": [
+        8
+      ],
+      "icon": "keyboard",
+      "role": "keys",
+      "timbre": [
+        "bright"
+      ]
+    },
+    "piano/2op electric piano.dmp": {
+      "articulation": [
+        "decaying",
+        "pulsing"
+      ],
+      "gm": [
+        5
+      ],
+      "icon": "keyboard",
+      "role": "keys"
+    },
+    "piano/2op fb clav.dmp": {
+      "articulation": [
+        "decaying"
+      ],
+      "gm": [
+        8
+      ],
+      "icon": "keyboard",
+      "role": "keys",
+      "timbre": [
+        "bright"
+      ]
+    },
+    "piano/2op fb piano.dmp": {
+      "articulation": [
+        "decaying"
+      ],
+      "gm": [
+        1
+      ],
+      "icon": "grand-piano",
+      "role": "keys"
+    },
+    "piano/2op piano.dmp": {
+      "articulation": [
+        "decaying"
+      ],
+      "gm": [
+        1
+      ],
+      "icon": "grand-piano",
+      "role": "keys"
+    },
+    "piano/2op tine piano.dmp": {
+      "articulation": [
+        "decaying",
+        "pulsing"
+      ],
+      "gm": [
+        5
+      ],
+      "icon": "keyboard",
+      "role": "keys",
+      "timbre": [
+        "dark"
+      ]
+    },
+    "piano/5th piano.dmp": {
+      "articulation": [
+        "decaying"
+      ],
+      "gm": [
+        1
+      ],
+      "icon": "grand-piano",
+      "role": "keys"
+    },
+    "piano/bright piano.dmp": {
+      "articulation": [
+        "decaying",
+        "long release"
+      ],
+      "gm": [
+        2
+      ],
+      "icon": "grand-piano",
+      "role": "keys"
+    },
+    "piano/bright piano2.dmp": {
+      "articulation": [
+        "decaying",
+        "long release"
+      ],
+      "gm": [
+        2
+      ],
+      "icon": "grand-piano",
+      "role": "keys"
+    },
+    "piano/clavinet.dmp": {
+      "articulation": [
+        "decaying",
+        "long release"
+      ],
+      "gm": [
+        8
+      ],
+      "icon": "keyboard",
+      "role": "keys",
+      "timbre": [
+        "bright"
+      ]
+    },
+    "piano/electric grand.dmp": {
+      "articulation": [
+        "decaying",
+        "long release"
+      ],
+      "gm": [
+        3
+      ],
+      "icon": "grand-piano",
+      "role": "keys"
+    },
+    "piano/electric piano1.dmp": {
+      "articulation": [
+        "sustained",
+        "pulsing"
+      ],
+      "gm": [
+        5
+      ],
+      "icon": "keyboard",
+      "role": "keys",
+      "timbre": [
+        "dark"
+      ]
+    },
+    "piano/electric piano2.dmp": {
+      "articulation": [
+        "sustained",
+        "pulsing"
+      ],
+      "gm": [
+        6
+      ],
+      "icon": "keyboard",
+      "role": "keys",
+      "timbre": [
+        "bright"
+      ]
+    },
+    "piano/electric piano3.dmp": {
+      "articulation": [
+        "sustained",
+        "pulsing"
+      ],
+      "gm": [
+        5,
+        6
+      ],
+      "icon": "keyboard",
+      "role": "keys",
+      "timbre": [
+        "dark"
+      ]
+    },
+    "piano/gentle piano.dmp": {
+      "articulation": [
+        "decaying",
+        "long release"
+      ],
+      "gm": [
+        1
+      ],
+      "icon": "grand-piano",
+      "role": "keys",
+      "timbre": [
+        "dark"
+      ]
+    },
+    "piano/grand piano.dmp": {
+      "articulation": [
+        "decaying",
+        "long release"
+      ],
+      "gm": [
+        1
+      ],
+      "icon": "grand-piano",
+      "role": "keys",
+      "timbre": [
+        "dark"
+      ]
+    },
+    "piano/grand piano2.dmp": {
+      "articulation": [
+        "decaying",
+        "long release"
+      ],
+      "gm": [
+        1
+      ],
+      "icon": "grand-piano",
+      "role": "keys"
+    },
+    "piano/harpsichord.dmp": {
+      "articulation": [
+        "decaying"
+      ],
+      "gm": [
+        7
+      ],
+      "icon": "harpsichord",
+      "role": "keys",
+      "timbre": [
+        "bright"
+      ]
+    },
+    "piano/harpsichord2.dmp": {
+      "articulation": [
+        "decaying",
+        "long release"
+      ],
+      "gm": [
+        7
+      ],
+      "icon": "harpsichord",
+      "role": "keys",
+      "timbre": [
+        "bright"
+      ]
+    },
+    "piano/honky tonk piano.dmp": {
+      "articulation": [
+        "decaying",
+        "long release"
+      ],
+      "gm": [
+        4
+      ],
+      "icon": "upright-piano",
+      "role": "keys"
+    },
+    "piano/piano.dmp": {
+      "articulation": [
+        "decaying"
+      ],
+      "gm": [
+        1
+      ],
+      "icon": "grand-piano",
+      "role": "keys",
+      "timbre": [
+        "dark"
+      ]
+    },
+    "pipe/1op flute.dmp": {
+      "articulation": [
+        "decaying",
+        "pulsing",
+        "pitch mod"
+      ],
+      "gm": [
+        74
+      ],
+      "icon": "flute",
+      "role": "lead",
+      "timbre": [
+        "dark"
+      ]
+    },
+    "pipe/breathy flute.dmp": {
+      "articulation": [
+        "sustained",
+        "pulsing",
+        "pitch mod"
+      ],
+      "gm": [
+        74
+      ],
+      "icon": "flute",
+      "role": "lead",
+      "timbre": [
+        "dark"
+      ]
+    },
+    "pipe/breathy flute2.dmp": {
+      "articulation": [
+        "sustained",
+        "pulsing",
+        "pitch mod"
+      ],
+      "gm": [
+        74
+      ],
+      "icon": "flute",
+      "role": "lead",
+      "timbre": [
+        "dark"
+      ]
+    },
+    "pipe/flute.dmp": {
+      "articulation": [
+        "slow attack",
+        "decaying",
+        "pulsing",
+        "pitch mod"
+      ],
+      "gm": [
+        74
+      ],
+      "icon": "flute",
+      "role": "lead",
+      "timbre": [
+        "dark"
+      ]
+    },
+    "pipe/old flute.dmp": {
+      "articulation": [
+        "sustained",
+        "pulsing",
+        "pitch mod"
+      ],
+      "gm": [
+        74
+      ],
+      "icon": "flute",
+      "role": "lead"
+    },
+    "reed/clarinet.dmp": {
+      "articulation": [
+        "sustained",
+        "pulsing",
+        "pitch mod"
+      ],
+      "gm": [
+        72
+      ],
+      "icon": "clarinet",
+      "role": "lead"
+    },
+    "reed/oboe.dmp": {
+      "articulation": [
+        "sustained",
+        "pulsing",
+        "pitch mod"
+      ],
+      "gm": [
+        69
+      ],
+      "icon": "oboe",
+      "role": "lead"
+    },
+    "reed/sax.dmp": {
+      "articulation": [
+        "decaying",
+        "long release",
+        "pulsing",
+        "pitch mod"
+      ],
+      "gm": [
+        66
+      ],
+      "icon": "saxophone",
+      "role": "lead",
+      "timbre": [
+        "bright"
+      ]
+    },
+    "strings/harp.dmp": {
+      "articulation": [
+        "decaying",
+        "long release"
+      ],
+      "gm": [
+        47
+      ],
+      "icon": "harp",
+      "role": "pluck",
+      "timbre": [
+        "dark"
+      ]
+    },
+    "strings/koto.dmp": {
+      "articulation": [
+        "percussive"
+      ],
+      "gm": [
+        108
+      ],
+      "icon": "koto",
+      "role": "pluck",
+      "timbre": [
+        "dark"
+      ]
+    },
+    "strings/old violin.dmp": {
+      "articulation": [
+        "sustained",
+        "long release",
+        "pulsing",
+        "pitch mod"
+      ],
+      "gm": [
+        41
+      ],
+      "icon": "violin",
+      "role": "lead"
+    },
+    "strings/pizzicato violin.dmp": {
+      "articulation": [
+        "percussive"
+      ],
+      "gm": [
+        46
+      ],
+      "icon": "violin",
+      "role": "pluck"
+    },
+    "strings/violin.dmp": {
+      "articulation": [
+        "sustained",
+        "long release",
+        "pulsing",
+        "pitch mod"
+      ],
+      "gm": [
+        41
+      ],
+      "icon": "violin",
+      "role": "lead"
+    },
+    "synth lead/1op fb sawtooth.dmp": {
+      "articulation": [
+        "sustained",
+        "pitch mod"
+      ],
+      "gm": [
+        82
+      ],
+      "icon": "sawtooth",
+      "role": "lead"
+    },
+    "synth lead/2op fb square.dmp": {
+      "articulation": [
+        "sustained",
+        "pitch mod"
+      ],
+      "gm": [
+        81
+      ],
+      "icon": "square",
+      "role": "lead"
+    },
+    "synth lead/2op fb triangle.dmp": {
+      "articulation": [
+        "sustained",
+        "pitch mod"
+      ],
+      "gm": [
+        83
+      ],
+      "icon": "triangle-wave",
+      "role": "lead",
+      "timbre": [
+        "dark"
+      ]
+    },
+    "synth lead/2op sawtooth.dmp": {
+      "articulation": [
+        "sustained",
+        "pitch mod"
+      ],
+      "gm": [
+        82
+      ],
+      "icon": "sawtooth",
+      "role": "lead"
+    },
+    "synth lead/4op square.dmp": {
+      "articulation": [
+        "sustained",
+        "pitch mod"
+      ],
+      "gm": [
+        81
+      ],
+      "icon": "square",
+      "role": "lead"
+    },
+    "synth lead/4op triangle.dmp": {
+      "articulation": [
+        "sustained",
+        "pitch mod"
+      ],
+      "gm": [
+        83
+      ],
+      "icon": "triangle-wave",
+      "role": "lead"
+    },
+    "synth lead/4op triangle2.dmp": {
+      "articulation": [
+        "sustained",
+        "pitch mod"
+      ],
+      "gm": [
+        83
+      ],
+      "icon": "triangle-wave",
+      "role": "lead",
+      "timbre": [
+        "dark"
+      ]
+    },
+    "synth lead/5th synth lead.dmp": {
+      "gm": [
+        87
+      ],
+      "icon": "synthesizer",
+      "role": "lead"
+    },
+    "synth lead/synth lead.dmp": {
+      "gm": [
+        82
+      ],
+      "icon": "synthesizer",
+      "role": "lead"
+    },
+    "synth pad/deep pad.dmp": {
+      "articulation": [
+        "slow attack",
+        "sustained",
+        "long release",
+        "pitch mod"
+      ],
+      "gm": [
+        90,
+        89
+      ],
+      "icon": "pad",
+      "role": "pad"
+    },
+    "synth pad/pad.dmp": {
+      "articulation": [
+        "slow attack",
+        "sustained",
+        "long release",
+        "pitch mod"
+      ],
+      "gm": [
+        89,
+        90
+      ],
+      "icon": "pad",
+      "role": "pad",
+      "timbre": [
+        "dark"
+      ]
+    },
+    "synth pad/pad2.dmp": {
+      "articulation": [
+        "slow attack",
+        "decaying",
+        "long release",
+        "pitch mod"
+      ],
+      "gm": [
+        90
+      ],
+      "icon": "pad",
+      "role": "pad",
+      "timbre": [
+        "bright"
+      ]
+    },
+    "synth pad/ssg cocktail.dmp": {
+      "articulation": [
+        "decaying",
+        "long release",
+        "pitch mod"
+      ],
+      "gm": [
+        96
+      ],
+      "icon": "pad",
+      "role": "pad"
+    }
+  },
+  "version": 1
+}
