@@ -1,0 +1,23 @@
+{
+  "role": ["bass", "keys", "pad", "lead", "pluck"],
+  "timbre": ["simple", "complex", "clean", "distorted", "bright", "dark", "thin", "phat", "nice", "nasty", "organic", "metallic", "smooth", "glitchy", "warm", "cold", "noisy", "detuned", "breathy", "muted", "mysterious"],
+  "articulation": ["percussive", "decaying", "sustained", "slow attack", "long release", "pulsing", "morphing", "pitch mod", "chord"],
+  "icon": [
+    {"group": "Piano", "ids": ["grand-piano", "upright-piano", "keyboard", "harpsichord"]},
+    {"group": "Chromatic Percussion", "ids": ["xylophone", "bell", "church-bell", "music-box", "glockenspiel"]},
+    {"group": "Organ", "ids": ["pipe-organ", "organ", "accordion", "harmonica"]},
+    {"group": "Guitar", "ids": ["acoustic-guitar", "electric-guitar"]},
+    {"group": "Bass", "ids": ["bass", "upright-bass"]},
+    {"group": "Strings", "ids": ["violin", "cello", "harp"]},
+    {"group": "Ensemble", "ids": ["choir", "orchestra", "strings-ensemble"]},
+    {"group": "Brass", "ids": ["trumpet", "trombone", "tuba", "french-horn", "horn"]},
+    {"group": "Reed", "ids": ["saxophone", "clarinet", "oboe", "bassoon"]},
+    {"group": "Pipe", "ids": ["flute", "recorder", "pan-flute", "ocarina", "whistle"]},
+    {"group": "Synth", "ids": ["synthesizer", "synth-bass", "sine", "square", "sawtooth", "triangle-wave", "pad", "fx"]},
+    {"group": "Ethnic", "ids": ["sitar", "banjo", "mandolin", "ukulele", "lute", "shamisen", "koto", "kalimba", "bagpipe", "didgeridoo"]},
+    {"group": "Percussive", "ids": ["timpani", "gong", "cowbell", "triangle", "steel-drum", "taiko"]},
+    {"group": "Drums", "ids": ["drum-kit", "drum-machine", "kick", "snare", "cymbal", "conga", "bongos", "tambourine", "maracas", "castanets", "clap"]},
+    {"group": "Voice", "ids": ["voice", "mic"]},
+    {"group": "Sound Effects", "ids": ["bird", "phone", "helicopter", "siren", "explosion", "thunder", "wind", "rain", "seashore", "laser", "ufo", "robot"]}
+  ]
+}
