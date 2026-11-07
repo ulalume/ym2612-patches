@@ -1,0 +1,15 @@
+{
+  "articulation": [
+    "sustained",
+    "pulsing"
+  ],
+  "gm": [
+    5,
+    6
+  ],
+  "icon": "keyboard",
+  "role": "keys",
+  "timbre": [
+    "dark"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "articulation": [
+    "sustained",
+    "pulsing",
+    "pitch mod"
+  ],
+  "gm": [
+    74
+  ],
+  "icon": "flute",
+  "role": "lead",
+  "timbre": [
+    "dark"
+  ]
+}

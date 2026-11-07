@@ -1,0 +1,14 @@
+{
+  "articulation": [
+    "slow attack",
+    "sustained",
+    "long release",
+    "pitch mod"
+  ],
+  "gm": [
+    90,
+    89
+  ],
+  "icon": "pad",
+  "role": "pad"
+}

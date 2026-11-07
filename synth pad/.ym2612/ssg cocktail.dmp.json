@@ -1,0 +1,12 @@
+{
+  "articulation": [
+    "decaying",
+    "long release",
+    "pitch mod"
+  ],
+  "gm": [
+    96
+  ],
+  "icon": "pad",
+  "role": "pad"
+}

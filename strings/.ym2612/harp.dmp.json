@@ -1,0 +1,14 @@
+{
+  "articulation": [
+    "decaying",
+    "long release"
+  ],
+  "gm": [
+    47
+  ],
+  "icon": "harp",
+  "role": "pluck",
+  "timbre": [
+    "dark"
+  ]
+}

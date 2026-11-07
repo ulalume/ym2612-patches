@@ -1,0 +1,15 @@
+{
+  "articulation": [
+    "slow attack",
+    "decaying",
+    "pitch mod"
+  ],
+  "gm": [
+    79
+  ],
+  "icon": "whistle",
+  "role": "lead",
+  "timbre": [
+    "dark"
+  ]
+}

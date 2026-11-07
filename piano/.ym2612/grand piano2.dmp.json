@@ -1,0 +1,11 @@
+{
+  "articulation": [
+    "decaying",
+    "long release"
+  ],
+  "gm": [
+    1
+  ],
+  "icon": "grand-piano",
+  "role": "keys"
+}

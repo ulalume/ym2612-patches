@@ -1,0 +1,13 @@
+{
+  "articulation": [
+    "sustained",
+    "long release",
+    "pulsing",
+    "pitch mod"
+  ],
+  "gm": [
+    41
+  ],
+  "icon": "violin",
+  "role": "lead"
+}

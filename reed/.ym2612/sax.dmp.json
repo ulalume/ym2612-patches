@@ -1,0 +1,16 @@
+{
+  "articulation": [
+    "decaying",
+    "long release",
+    "pulsing",
+    "pitch mod"
+  ],
+  "gm": [
+    66
+  ],
+  "icon": "saxophone",
+  "role": "lead",
+  "timbre": [
+    "bright"
+  ]
+}

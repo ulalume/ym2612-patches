@@ -1,0 +1,15 @@
+{
+  "articulation": [
+    "sustained",
+    "long release",
+    "pitch mod"
+  ],
+  "gm": [
+    49
+  ],
+  "icon": "strings-ensemble",
+  "role": "pad",
+  "timbre": [
+    "bright"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "articulation": [
+    "decaying",
+    "pulsing"
+  ],
+  "gm": [
+    5
+  ],
+  "icon": "keyboard",
+  "role": "keys",
+  "timbre": [
+    "dark"
+  ]
+}

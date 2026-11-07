@@ -1,0 +1,16 @@
+{
+  "articulation": [
+    "decaying",
+    "long release"
+  ],
+  "gm": [
+    29,
+    27,
+    28
+  ],
+  "icon": "electric-guitar",
+  "role": "pluck",
+  "timbre": [
+    "bright"
+  ]
+}

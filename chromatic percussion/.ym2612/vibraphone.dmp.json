@@ -1,0 +1,14 @@
+{
+  "articulation": [
+    "decaying",
+    "pulsing"
+  ],
+  "gm": [
+    12
+  ],
+  "icon": "xylophone",
+  "role": "pluck",
+  "timbre": [
+    "dark"
+  ]
+}

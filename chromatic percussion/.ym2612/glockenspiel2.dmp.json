@@ -1,0 +1,14 @@
+{
+  "articulation": [
+    "decaying",
+    "long release"
+  ],
+  "gm": [
+    10
+  ],
+  "icon": "glockenspiel",
+  "role": "pluck",
+  "timbre": [
+    "bright"
+  ]
+}

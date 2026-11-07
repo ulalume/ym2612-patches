@@ -1,0 +1,15 @@
+{
+  "articulation": [
+    "sustained",
+    "long release",
+    "pitch mod"
+  ],
+  "gm": [
+    57
+  ],
+  "icon": "trumpet",
+  "role": "lead",
+  "timbre": [
+    "bright"
+  ]
+}

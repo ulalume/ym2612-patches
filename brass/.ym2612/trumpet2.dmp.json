@@ -1,0 +1,12 @@
+{
+  "articulation": [
+    "decaying",
+    "pitch mod"
+  ],
+  "gm": [
+    60,
+    57
+  ],
+  "icon": "trumpet",
+  "role": "lead"
+}

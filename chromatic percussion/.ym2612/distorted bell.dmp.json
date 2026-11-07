@@ -1,0 +1,14 @@
+{
+  "articulation": [
+    "decaying",
+    "long release"
+  ],
+  "gm": [
+    15
+  ],
+  "icon": "bell",
+  "role": "pluck",
+  "timbre": [
+    "bright"
+  ]
+}

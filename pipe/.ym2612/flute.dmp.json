@@ -1,0 +1,16 @@
+{
+  "articulation": [
+    "slow attack",
+    "decaying",
+    "pulsing",
+    "pitch mod"
+  ],
+  "gm": [
+    74
+  ],
+  "icon": "flute",
+  "role": "lead",
+  "timbre": [
+    "dark"
+  ]
+}
